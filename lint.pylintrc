@@ -1,0 +1,9 @@
+[MASTER]
+ignore=venv
+disable=C0114,C0115,C0116
+
+[FORMAT]
+max-line-length=100
+
+[MESSAGES CONTROL]
+disable=missing-module-docstring,missing-function-docstring,too-few-public-methods
